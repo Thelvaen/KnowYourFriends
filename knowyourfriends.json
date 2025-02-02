@@ -329,7 +329,7 @@
       ]
     },
     "Movies": {
-      "01/39": [
+      "01/40": [
         {
           "English": "What is your all-time favorite movie?",
           "Français": "Quel est votre film préféré de tous les temps ?",
@@ -337,7 +337,7 @@
           "日本語": "あなたのオールタイムお気に入りの映画は何ですか？"
         }
       ],
-      "02/39": [
+      "02/40": [
         {
           "English": "Who is your favorite movie director?",
           "Français": "Qui est votre réalisateur préféré ?",
@@ -345,7 +345,7 @@
           "日本語": "お気に入りの映画監督は誰ですか？"
         }
       ],
-      "03/39": [
+      "03/40": [
         {
           "English": "Do you prefer action or drama movies?",
           "Français": "Préférez-vous les films d'action ou les drames ?",
@@ -353,7 +353,7 @@
           "日本語": "アクション映画とドラマ映画、どちらが好きですか？"
         }
       ],
-      "04/39": [
+      "04/40": [
         {
           "English": "What’s the last movie you watched?",
           "Français": "Quel est le dernier film que vous avez regardé ?",
@@ -361,7 +361,7 @@
           "日本語": "最後に見た映画は何ですか？"
         }
       ],
-      "05/39": [
+      "05/40": [
         {
           "English": "Do you prefer watching movies at home or in a theater?",
           "Français": "Préférez-vous regarder des films à la maison ou au cinéma ?",
@@ -369,7 +369,7 @@
           "日本語": "家で映画を見るのと映画館で見るの、どちらが好きですか？"
         }
       ],
-      "06/39": [
+      "06/40": [
         {
           "English": "What’s your favorite movie genre?",
           "Français": "Quel est votre genre de film préféré ?",
@@ -377,7 +377,7 @@
           "日本語": "好きな映画のジャンルは何ですか？"
         }
       ],
-      "07/39": [
+      "07/40": [
         {
           "English": "Who is your favorite actor or actress?",
           "Français": "Quel est votre acteur ou actrice préféré(e) ?",
@@ -385,7 +385,7 @@
           "日本語": "お気に入りの俳優または女優は誰ですか？"
         }
       ],
-      "08/39": [
+      "08/40": [
         {
           "English": "What’s a movie you could watch over and over?",
           "Français": "Quel film pourriez-vous regarder encore et encore ?",
@@ -393,7 +393,7 @@
           "日本語": "何度でも見られる映画は何ですか？"
         }
       ],
-      "09/39": [
+      "09/40": [
         {
           "English": "Do you prefer comedies or thrillers?",
           "Français": "Préférez-vous les comédies ou les thrillers ?",
@@ -401,7 +401,7 @@
           "日本語": "コメディ映画とスリラー映画、どちらが好きですか？"
         }
       ],
-      "10/39": [
+      "10/40": [
         {
           "English": "What’s the most emotional movie you’ve ever seen?",
           "Français": "Quel est le film le plus émouvant que vous ayez vu ?",
@@ -409,7 +409,7 @@
           "日本語": "今までに見た中で最も感動した映画は何ですか？"
         }
       ],
-      "11/39": [
+      "11/40": [
         {
           "English": "Do you like animated movies? Which is your favorite?",
           "Français": "Aimez-vous les films d'animation ? Quel est votre préféré ?",
@@ -417,7 +417,7 @@
           "日本語": "アニメ映画は好きですか？お気に入りは何ですか？"
         }
       ],
-      "12/39": [
+      "12/40": [
         {
           "English": "What’s the scariest movie you’ve ever seen?",
           "Français": "Quel est le film le plus effrayant que vous ayez vu ?",
@@ -425,7 +425,7 @@
           "日本語": "今までに見た中で最も怖かった映画は何ですか？"
         }
       ],
-      "13/39": [
+      "13/40": [
         {
           "English": "Do you enjoy foreign films? Any favorites?",
           "Français": "Aimez-vous les films étrangers ? Des préférés ?",
@@ -433,7 +433,7 @@
           "日本語": "外国映画は好きですか？お気に入りはありますか？"
         }
       ],
-      "14/39": [
+      "14/40": [
         {
           "English": "What’s your favorite movie soundtrack?",
           "Français": "Quelle est votre bande originale de film préférée ?",
@@ -441,7 +441,7 @@
           "日本語": "お気に入りの映画サウンドトラックは何ですか？"
         }
       ],
-      "15/39": [
+      "15/40": [
         {
           "English": "Who is your favorite movie villain?",
           "Français": "Quel est votre méchant de film préféré ?",
@@ -449,7 +449,7 @@
           "日本語": "お気に入りの映画の悪役は誰ですか？"
         }
       ],
-      "16/39": [
+      "16/40": [
         {
           "English": "What’s the funniest movie you’ve ever seen?",
           "Français": "Quel est le film le plus drôle que vous ayez vu ?",
@@ -457,7 +457,7 @@
           "日本語": "今までに見た中で一番面白かった映画は何ですか？"
         }
       ],
-      "17/39": [
+      "17/40": [
         {
           "English": "Do you prefer old classic movies or modern films?",
           "Français": "Préférez-vous les vieux classiques ou les films modernes ?",
@@ -465,7 +465,7 @@
           "日本語": "古典的な映画と現代映画、どちらが好きですか？"
         }
       ],
-      "18/39": [
+      "18/40": [
         {
           "English": "What’s a movie you didn’t expect to like but loved?",
           "Français": "Quel film ne pensiez-vous pas aimer mais avez adoré ?",
@@ -473,7 +473,7 @@
           "日本語": "好きになるとは思わなかったけど好きになった映画は何ですか？"
         }
       ],
-      "19/39": [
+      "19/40": [
         {
           "English": "Do you prefer movies with happy endings or sad ones?",
           "Français": "Préférez-vous les films avec des fins heureuses ou tristes ?",
@@ -481,7 +481,7 @@
           "日本語": "ハッピーエンドと悲しい結末、どちらの映画が好きですか？"
         }
       ],
-      "20/39": [
+      "20/40": [
         {
           "English": "What’s your favorite movie quote?",
           "Français": "Quelle est votre citation de film préférée ?",
@@ -489,7 +489,7 @@
           "日本語": "お気に入りの映画のセリフは何ですか？"
         }
       ],
-      "21/39": [
+      "21/40": [
         {
           "English": "What’s the best movie you’ve seen this year?",
           "Français": "Quel est le meilleur film que vous ayez vu cette année ?",
@@ -497,7 +497,7 @@
           "日本語": "今年見た中で最高の映画は何ですか？"
         }
       ],
-      "22/39": [
+      "22/40": [
         {
           "English": "Do you like documentaries? Any recommendations?",
           "Français": "Aimez-vous les documentaires ? Des recommandations ?",
@@ -505,7 +505,7 @@
           "日本語": "ドキュメンタリー映画は好きですか？おすすめはありますか？"
         }
       ],
-      "23/39": [
+      "23/40": [
         {
           "English": "What’s a movie that made you cry?",
           "Français": "Quel film vous a fait pleurer ?",
@@ -513,7 +513,7 @@
           "日本語": "泣いた映画は何ですか？"
         }
       ],
-      "24/39": [
+      "24/40": [
         {
           "English": "If you could be in any movie, which one would it be?",
           "Français": "Si vous pouviez être dans un film, lequel serait-ce ?",
@@ -521,7 +521,7 @@
           "日本語": "どの映画の中に入れるとしたら、どれに入りたいですか？"
         }
       ],
-      "25/39": [
+      "25/40": [
         {
           "English": "Do you prefer movies based on true stories?",
           "Français": "Préférez-vous les films inspirés de faits réels ?",
@@ -529,7 +529,7 @@
           "日本語": "実話に基づいた映画は好きですか？"
         }
       ],
-      "26/39": [
+      "26/40": [
         {
           "English": "What’s your favorite sci-fi movie?",
           "Français": "Quel est votre film de science-fiction préféré ?",
@@ -537,7 +537,7 @@
           "日本語": "お気に入りのSF映画は何ですか？"
         }
       ],
-      "27/39": [
+      "27/40": [
         {
           "English": "What’s a movie you think everyone should watch?",
           "Français": "Quel film pensez-vous que tout le monde devrait voir ?",
@@ -545,7 +545,7 @@
           "日本語": "みんなが見るべきだと思う映画は何ですか？"
         }
       ],
-      "28/39": [
+      "28/40": [
         {
           "English": "Do you enjoy movie marathons? Which theme would you choose?",
           "Français": "Aimez-vous les marathons de films ? Quel thème choisiriez-vous ?",
@@ -553,7 +553,7 @@
           "日本語": "映画マラソンは好きですか？どんなテーマを選びますか？"
         }
       ],
-      "29/39": [
+      "29/40": [
         {
           "English": "What’s your guilty pleasure movie?",
           "Français": "Quel est votre plaisir coupable en matière de films ?",
@@ -561,7 +561,7 @@
           "日本語": "あなたの罪悪感を感じる映画は何ですか？"
         }
       ],
-      "30/39": [
+      "30/40": [
         {
           "English": "Do you prefer 2D or 3D movies?",
           "Français": "Préférez-vous les films en 2D ou en 3D ?",
@@ -569,7 +569,7 @@
           "日本語": "2D映画と3D映画、どちらが好きですか？"
         }
       ],
-      "31/39": [
+      "31/40": [
         {
           "English": "What’s the most overrated movie in your opinion?",
           "Français": "Quel est le film le plus surévalué selon vous ?",
@@ -577,7 +577,7 @@
           "日本語": "あなたが過大評価されていると思う映画は何ですか？"
         }
       ],
-      "32/39": [
+      "32/40": [
         {
           "English": "What’s a movie you’ve watched more than five times?",
           "Français": "Quel film avez-vous vu plus de cinq fois ?",
@@ -585,7 +585,7 @@
           "日本語": "5回以上見た映画は何ですか？"
         }
       ],
-      "33/39": [
+      "33/40": [
         {
           "English": "Do you like independent films?",
           "Français": "Aimez-vous les films indépendants ?",
@@ -593,7 +593,7 @@
           "日本語": "インディペンデント映画は好きですか？"
         }
       ],
-      "34/39": [
+      "34/40": [
         {
           "English": "What’s the best plot twist you’ve seen in a movie?",
           "Français": "Quel est le meilleur rebondissement que vous ayez vu dans un film ?",
@@ -601,7 +601,7 @@
           "日本語": "映画で見た最高のプロットツイストは何ですか？"
         }
       ],
-      "35/39": [
+      "35/40": [
         {
           "English": "Who is your favorite film composer?",
           "Français": "Quel est votre compositeur de films préféré ?",
@@ -609,7 +609,7 @@
           "日本語": "お気に入りの映画作曲家は誰ですか？"
         }
       ],
-      "36/39": [
+      "36/40": [
         {
           "English": "Do you like superhero movies? Which one is your favorite?",
           "Français": "Aimez-vous les films de super-héros ? Lequel est votre préféré ?",
@@ -617,7 +617,7 @@
           "日本語": "スーパーヒーロー映画は好きですか？お気に入りは何ですか？"
         }
       ],
-      "37/39": [
+      "37/40": [
         {
           "English": "What’s your favorite romantic movie?",
           "Français": "Quel est votre film romantique préféré ?",
@@ -625,7 +625,7 @@
           "日本語": "お気に入りの恋愛映画は何ですか？"
         }
       ],
-      "38/39": [
+      "38/40": [
         {
           "English": "Do you prefer movies with lots of special effects or simple storytelling?",
           "Français": "Préférez-vous les films avec beaucoup d'effets spéciaux ou les histoires simples ?",
@@ -633,12 +633,20 @@
           "日本語": "特撮が多い映画とシンプルな物語の映画、どちらが好きですか？"
         }
       ],
-      "39/39": [
+      "39/40": [
         {
           "English": "What’s a movie you recommend to everyone?",
           "Français": "Quel film recommandez-vous à tout le monde ?",
           "Nederlands": "Welke film raad je iedereen aan?",
           "日本語": "誰にでも勧めたい映画は何ですか？"
+        }
+      ],
+      "40/40": [
+        {
+          "English": "What’s a movie scene that stayed with you long after watching?",
+          "Français": "Quelle scène de film vous est restée en tête longtemps après l'avoir vue ?",
+          "Nederlands": "Welke filmscène is je lang bijgebleven na het kijken?",
+          "日本語": "見た後も長く心に残った映画のシーンは何ですか？"
         }
       ]
     }

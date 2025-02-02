@@ -7,7 +7,7 @@
   ],
   "questions": {
     "Anime": {
-      "01/39": [
+      "01/40": [
         {
           "English": "What is your favorite anime of all time?",
           "Français": "Quel est votre anime préféré de tous les temps ?",
@@ -15,7 +15,7 @@
           "日本語": "あなたのオールタイムお気に入りのアニメは何ですか？"
         }
       ],
-      "02/39": [
+      "02/40": [
         {
           "English": "Who is your favorite anime character?",
           "Français": "Quel est votre personnage d'anime préféré ?",
@@ -23,7 +23,7 @@
           "日本語": "お気に入りのアニメキャラクターは誰ですか？"
         }
       ],
-      "03/39": [
+      "03/40": [
         {
           "English": "What was the first anime you ever watched?",
           "Français": "Quel a été le premier anime que vous avez regardé ?",
@@ -31,7 +31,7 @@
           "日本語": "初めて見たアニメは何ですか？"
         }
       ],
-      "04/39": [
+      "04/40": [
         {
           "English": "Do you prefer subbed or dubbed anime?",
           "Français": "Préférez-vous les animes sous-titrés ou doublés ?",
@@ -39,7 +39,7 @@
           "日本語": "字幕付きアニメと吹き替えアニメ、どちらが好きですか？"
         }
       ],
-      "05/39": [
+      "05/40": [
         {
           "English": "What is your favorite anime opening theme song?",
           "Français": "Quelle est votre chanson d'ouverture d'anime préférée ?",
@@ -47,7 +47,7 @@
           "日本語": "お気に入りのアニメのオープニングテーマは何ですか？"
         }
       ],
-      "06/39": [
+      "06/40": [
         {
           "English": "What’s the best anime fight scene you’ve ever seen?",
           "Français": "Quelle est la meilleure scène de combat d'anime que vous ayez vue ?",
@@ -55,7 +55,7 @@
           "日本語": "今までに見た中で最高のアニメの戦闘シーンは何ですか？"
         }
       ],
-      "07/39": [
+      "07/40": [
         {
           "English": "Do you prefer watching anime alone or with friends?",
           "Français": "Préférez-vous regarder des animes seul ou avec des amis ?",
@@ -63,7 +63,7 @@
           "日本語": "アニメを見るのは一人で見るのと友達と一緒に見るの、どちらが好きですか？"
         }
       ],
-      "08/39": [
+      "08/40": [
         {
           "English": "What’s an anime that always makes you cry?",
           "Français": "Quel est un anime qui vous fait toujours pleurer ?",
@@ -71,7 +71,7 @@
           "日本語": "いつも泣かされるアニメは何ですか？"
         }
       ],
-      "09/39": [
+      "09/40": [
         {
           "English": "Who is your favorite anime director?",
           "Français": "Quel est votre réalisateur d'anime préféré ?",
@@ -79,7 +79,7 @@
           "日本語": "お気に入りのアニメ監督は誰ですか？"
         }
       ],
-      "10/39": [
+      "10/40": [
         {
           "English": "What’s the most underrated anime in your opinion?",
           "Français": "Quel est l'anime le plus sous-estimé selon vous ?",
@@ -87,7 +87,7 @@
           "日本語": "あなたが過小評価されていると思うアニメは何ですか？"
         }
       ],
-      "11/39": [
+      "11/40": [
         {
           "English": "Do you prefer long-running series or short series?",
           "Français": "Préférez-vous les séries longues ou courtes ?",
@@ -95,7 +95,7 @@
           "日本語": "長編シリーズと短編シリーズ、どちらが好きですか？"
         }
       ],
-      "12/39": [
+      "12/40": [
         {
           "English": "What’s an anime that you think everyone should watch?",
           "Français": "Quel est un anime que vous pensez que tout le monde devrait regarder ?",
@@ -103,7 +103,7 @@
           "日本語": "みんなが見るべきだと思うアニメは何ですか？"
         }
       ],
-      "13/39": [
+      "13/40": [
         {
           "English": "Who is your favorite anime villain?",
           "Français": "Quel est votre méchant d'anime préféré ?",
@@ -111,7 +111,7 @@
           "日本語": "お気に入りのアニメの悪役は誰ですか？"
         }
       ],
-      "14/39": [
+      "14/40": [
         {
           "English": "What’s your favorite anime genre?",
           "Français": "Quel est votre genre d'anime préféré ?",
@@ -119,7 +119,7 @@
           "日本語": "好きなアニメのジャンルは何ですか？"
         }
       ],
-      "15/39": [
+      "15/40": [
         {
           "English": "What’s an anime that you can watch over and over?",
           "Français": "Quel est un anime que vous pouvez regarder encore et encore ?",
@@ -127,7 +127,7 @@
           "日本語": "何度でも見られるアニメは何ですか？"
         }
       ],
-      "16/39": [
+      "16/40": [
         {
           "English": "Do you prefer anime movies or series?",
           "Français": "Préférez-vous les films d'anime ou les séries ?",
@@ -135,7 +135,7 @@
           "日本語": "アニメ映画とシリーズ、どちらが好きですか？"
         }
       ],
-      "17/39": [
+      "17/40": [
         {
           "English": "What’s the funniest anime you’ve ever seen?",
           "Français": "Quel est l'anime le plus drôle que vous ayez vu ?",
@@ -143,7 +143,7 @@
           "日本語": "今までに見た中で一番面白かったアニメは何ですか？"
         }
       ],
-      "18/39": [
+      "18/40": [
         {
           "English": "Who is your favorite anime voice actor?",
           "Français": "Quel est votre doubleur d'anime préféré ?",
@@ -151,7 +151,7 @@
           "日本語": "お気に入りのアニメ声優は誰ですか？"
         }
       ],
-      "19/39": [
+      "19/40": [
         {
           "English": "What’s an anime that you didn’t expect to like but loved?",
           "Français": "Quel est un anime que vous ne pensiez pas aimer mais que vous avez adoré ?",
@@ -159,7 +159,7 @@
           "日本語": "好きになるとは思わなかったけど好きになったアニメは何ですか？"
         }
       ],
-      "20/39": [
+      "20/40": [
         {
           "English": "Do you prefer action or slice-of-life anime?",
           "Français": "Préférez-vous les animes d'action ou de tranche de vie ?",
@@ -167,7 +167,7 @@
           "日本語": "アクションアニメと日常系アニメ、どちらが好きですか？"
         }
       ],
-      "21/39": [
+      "21/40": [
         {
           "English": "What’s your favorite anime movie?",
           "Français": "Quel est votre film d'anime préféré ?",
@@ -175,7 +175,7 @@
           "日本語": "お気に入りのアニメ映画は何ですか？"
         }
       ],
-      "22/39": [
+      "22/40": [
         {
           "English": "Who is your favorite anime hero?",
           "Français": "Quel est votre héros d'anime préféré ?",
@@ -183,7 +183,7 @@
           "日本語": "お気に入りのアニメヒーローは誰ですか？"
         }
       ],
-      "23/39": [
+      "23/40": [
         {
           "English": "What’s an anime that you think is overrated?",
           "Français": "Quel est un anime que vous pensez surévalué ?",
@@ -191,7 +191,7 @@
           "日本語": "過大評価されていると思うアニメは何ですか？"
         }
       ],
-      "24/39": [
+      "24/40": [
         {
           "English": "Do you like to read manga as well?",
           "Français": "Aimez-vous aussi lire des mangas ?",
@@ -199,7 +199,7 @@
           "日本語": "マンガも読むのが好きですか？"
         }
       ],
-      "25/39": [
+      "25/40": [
         {
           "English": "What’s an anime that you recommend to everyone?",
           "Français": "Quel est un anime que vous recommandez à tout le monde ?",
@@ -207,7 +207,7 @@
           "日本語": "誰にでも勧めたいアニメは何ですか？"
         }
       ],
-      "26/39": [
+      "26/40": [
         {
           "English": "Who is your favorite anime couple?",
           "Français": "Quel est votre couple d'anime préféré ?",
@@ -215,7 +215,7 @@
           "日本語": "お気に入りのアニメカップルは誰ですか？"
         }
       ],
-      "27/39": [
+      "27/40": [
         {
           "English": "What’s an anime that you think has the best soundtrack?",
           "Français": "Quel est un anime que vous pensez avoir la meilleure bande sonore ?",
@@ -223,7 +223,7 @@
           "日本語": "最高のサウンドトラックを持っていると思うアニメは何ですか？"
         }
       ],
-      "28/39": [
+      "28/40": [
         {
           "English": "Do you prefer older or newer anime?",
           "Français": "Préférez-vous les anciens ou les nouveaux animes ?",
@@ -231,7 +231,7 @@
           "日本語": "古いアニメと新しいアニメ、どちらが好きですか？"
         }
       ],
-      "29/39": [
+      "29/40": [
         {
           "English": "What’s an anime that you think has the best animation?",
           "Français": "Quel est un anime que vous pensez avoir la meilleure animation ?",
@@ -239,7 +239,7 @@
           "日本語": "最高のアニメーションを持っていると思うアニメは何ですか？"
         }
       ],
-      "30/39": [
+      "30/40": [
         {
           "English": "Who is your favorite anime director?",
           "Français": "Quel est votre réalisateur d'anime préféré ?",
@@ -247,7 +247,7 @@
           "日本語": "お気に入りのアニメ監督は誰ですか？"
         }
       ],
-      "31/39": [
+      "31/40": [
         {
           "English": "What’s an anime that you think has the best story?",
           "Français": "Quel est un anime que vous pensez avoir la meilleure histoire ?",
@@ -255,7 +255,7 @@
           "日本語": "最高のストーリーを持っていると思うアニメは何ですか？"
         }
       ],
-      "32/39": [
+      "32/40": [
         {
           "English": "Do you prefer watching anime weekly or binge-watching?",
           "Français": "Préférez-vous regarder des animes chaque semaine ou en rafale ?",
@@ -263,7 +263,7 @@
           "日本語": "アニメを見るのは毎週見るのと一気に見るの、どちらが好きですか？"
         }
       ],
-      "33/39": [
+      "33/40": [
         {
           "English": "What’s an anime that you think has the best character development?",
           "Français": "Quel est un anime que vous pensez avoir le meilleur développement de personnage ?",
@@ -271,7 +271,7 @@
           "日本語": "最高のキャラクター成長を持っていると思うアニメは何ですか？"
         }
       ],
-      "34/39": [
+      "34/40": [
         {
           "English": "Who is your favorite anime sidekick?",
           "Français": "Quel est votre acolyte d'anime préféré ?",
@@ -279,7 +279,7 @@
           "日本語": "お気に入りのアニメのサイドキックは誰ですか？"
         }
       ],
-      "35/39": [
+      "35/40": [
         {
           "English": "What’s an anime that you think has the best world-building?",
           "Français": "Quel est un anime que vous pensez avoir la meilleure construction du monde ?",
@@ -287,7 +287,7 @@
           "日本語": "最高の世界観を持っていると思うアニメは何ですか？"
         }
       ],
-      "36/39": [
+      "36/40": [
         {
           "English": "Do you prefer anime with a lot of episodes or a few?",
           "Français": "Préférez-vous les animes avec beaucoup d'épisodes ou peu ?",
@@ -295,7 +295,7 @@
           "日本語": "エピソードが多いアニメと少ないアニメ、どちらが好きですか？"
         }
       ],
-      "37/39": [
+      "37/40": [
         {
           "English": "What’s an anime that you think has the best art style?",
           "Français": "Quel est un anime que vous pensez avoir le meilleur style artistique ?",
@@ -303,7 +303,7 @@
           "日本語": "最高のアートスタイルを持っていると思うアニメは何ですか？"
         }
       ],
-      "38/39": [
+      "38/40": [
         {
           "English": "Who is your favorite anime mentor?",
           "Français": "Quel est votre mentor d'anime préféré ?",
@@ -311,12 +311,20 @@
           "日本語": "お気に入りのアニメの師匠は誰ですか？"
         }
       ],
-      "39/39": [
+      "39/40": [
         {
           "English": "What’s an anime that you think has the best ending?",
           "Français": "Quel est un anime que vous pensez avoir la meilleure fin ?",
           "Nederlands": "Welke anime heeft volgens jou het beste einde?",
           "日本語": "最高のエンディングを持っていると思うアニメは何ですか？"
+        }
+      ],
+      "40/40": [
+        {
+          "English": "What’s an anime that you think has the best plot twist?",
+          "Français": "Quel est un anime que vous pensez avoir le meilleur rebondissement ?",
+          "Nederlands": "Welke anime heeft volgens jou de beste plotwending?",
+          "日本語": "最高のプロットツイストを持っていると思うアニメは何ですか？"
         }
       ]
     },

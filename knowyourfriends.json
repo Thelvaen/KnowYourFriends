@@ -6,6 +6,320 @@
     "日本語"
   ],
   "questions": {
+    "Anime": {
+      "01/39": [
+        {
+          "English": "What is your favorite anime of all time?",
+          "Français": "Quel est votre anime préféré de tous les temps ?",
+          "Nederlands": "Wat is je favoriete anime aller tijden?",
+          "日本語": "あなたのオールタイムお気に入りのアニメは何ですか？"
+        }
+      ],
+      "02/39": [
+        {
+          "English": "Who is your favorite anime character?",
+          "Français": "Quel est votre personnage d'anime préféré ?",
+          "Nederlands": "Wie is je favoriete anime-personage?",
+          "日本語": "お気に入りのアニメキャラクターは誰ですか？"
+        }
+      ],
+      "03/39": [
+        {
+          "English": "What was the first anime you ever watched?",
+          "Français": "Quel a été le premier anime que vous avez regardé ?",
+          "Nederlands": "Wat was de eerste anime die je ooit hebt gezien?",
+          "日本語": "初めて見たアニメは何ですか？"
+        }
+      ],
+      "04/39": [
+        {
+          "English": "Do you prefer subbed or dubbed anime?",
+          "Français": "Préférez-vous les animes sous-titrés ou doublés ?",
+          "Nederlands": "Heb je liever ondertitelde of nagesynchroniseerde anime?",
+          "日本語": "字幕付きアニメと吹き替えアニメ、どちらが好きですか？"
+        }
+      ],
+      "05/39": [
+        {
+          "English": "What is your favorite anime opening theme song?",
+          "Français": "Quelle est votre chanson d'ouverture d'anime préférée ?",
+          "Nederlands": "Wat is je favoriete anime openingsthema?",
+          "日本語": "お気に入りのアニメのオープニングテーマは何ですか？"
+        }
+      ],
+      "06/39": [
+        {
+          "English": "What’s the best anime fight scene you’ve ever seen?",
+          "Français": "Quelle est la meilleure scène de combat d'anime que vous ayez vue ?",
+          "Nederlands": "Wat is de beste anime-gevechtsscène die je ooit hebt gezien?",
+          "日本語": "今までに見た中で最高のアニメの戦闘シーンは何ですか？"
+        }
+      ],
+      "07/39": [
+        {
+          "English": "Do you prefer watching anime alone or with friends?",
+          "Français": "Préférez-vous regarder des animes seul ou avec des amis ?",
+          "Nederlands": "Kijk je liever alleen naar anime of met vrienden?",
+          "日本語": "アニメを見るのは一人で見るのと友達と一緒に見るの、どちらが好きですか？"
+        }
+      ],
+      "08/39": [
+        {
+          "English": "What’s an anime that always makes you cry?",
+          "Français": "Quel est un anime qui vous fait toujours pleurer ?",
+          "Nederlands": "Welke anime maakt je altijd aan het huilen?",
+          "日本語": "いつも泣かされるアニメは何ですか？"
+        }
+      ],
+      "09/39": [
+        {
+          "English": "Who is your favorite anime director?",
+          "Français": "Quel est votre réalisateur d'anime préféré ?",
+          "Nederlands": "Wie is je favoriete anime-regisseur?",
+          "日本語": "お気に入りのアニメ監督は誰ですか？"
+        }
+      ],
+      "10/39": [
+        {
+          "English": "What’s the most underrated anime in your opinion?",
+          "Français": "Quel est l'anime le plus sous-estimé selon vous ?",
+          "Nederlands": "Wat is volgens jou de meest ondergewaardeerde anime?",
+          "日本語": "あなたが過小評価されていると思うアニメは何ですか？"
+        }
+      ],
+      "11/39": [
+        {
+          "English": "Do you prefer long-running series or short series?",
+          "Français": "Préférez-vous les séries longues ou courtes ?",
+          "Nederlands": "Heb je liever langlopende series of korte series?",
+          "日本語": "長編シリーズと短編シリーズ、どちらが好きですか？"
+        }
+      ],
+      "12/39": [
+        {
+          "English": "What’s an anime that you think everyone should watch?",
+          "Français": "Quel est un anime que vous pensez que tout le monde devrait regarder ?",
+          "Nederlands": "Welke anime vind je dat iedereen zou moeten kijken?",
+          "日本語": "みんなが見るべきだと思うアニメは何ですか？"
+        }
+      ],
+      "13/39": [
+        {
+          "English": "Who is your favorite anime villain?",
+          "Français": "Quel est votre méchant d'anime préféré ?",
+          "Nederlands": "Wie is je favoriete anime-schurk?",
+          "日本語": "お気に入りのアニメの悪役は誰ですか？"
+        }
+      ],
+      "14/39": [
+        {
+          "English": "What’s your favorite anime genre?",
+          "Français": "Quel est votre genre d'anime préféré ?",
+          "Nederlands": "Wat is je favoriete anime-genre?",
+          "日本語": "好きなアニメのジャンルは何ですか？"
+        }
+      ],
+      "15/39": [
+        {
+          "English": "What’s an anime that you can watch over and over?",
+          "Français": "Quel est un anime que vous pouvez regarder encore et encore ?",
+          "Nederlands": "Welke anime kun je keer op keer bekijken?",
+          "日本語": "何度でも見られるアニメは何ですか？"
+        }
+      ],
+      "16/39": [
+        {
+          "English": "Do you prefer anime movies or series?",
+          "Français": "Préférez-vous les films d'anime ou les séries ?",
+          "Nederlands": "Heb je liever animefilms of series?",
+          "日本語": "アニメ映画とシリーズ、どちらが好きですか？"
+        }
+      ],
+      "17/39": [
+        {
+          "English": "What’s the funniest anime you’ve ever seen?",
+          "Français": "Quel est l'anime le plus drôle que vous ayez vu ?",
+          "Nederlands": "Wat is de grappigste anime die je ooit hebt gezien?",
+          "日本語": "今までに見た中で一番面白かったアニメは何ですか？"
+        }
+      ],
+      "18/39": [
+        {
+          "English": "Who is your favorite anime voice actor?",
+          "Français": "Quel est votre doubleur d'anime préféré ?",
+          "Nederlands": "Wie is je favoriete anime-stemacteur?",
+          "日本語": "お気に入りのアニメ声優は誰ですか？"
+        }
+      ],
+      "19/39": [
+        {
+          "English": "What’s an anime that you didn’t expect to like but loved?",
+          "Français": "Quel est un anime que vous ne pensiez pas aimer mais que vous avez adoré ?",
+          "Nederlands": "Welke anime dacht je niet leuk te vinden, maar vond je geweldig?",
+          "日本語": "好きになるとは思わなかったけど好きになったアニメは何ですか？"
+        }
+      ],
+      "20/39": [
+        {
+          "English": "Do you prefer action or slice-of-life anime?",
+          "Français": "Préférez-vous les animes d'action ou de tranche de vie ?",
+          "Nederlands": "Heb je liever actie- of slice-of-life anime?",
+          "日本語": "アクションアニメと日常系アニメ、どちらが好きですか？"
+        }
+      ],
+      "21/39": [
+        {
+          "English": "What’s your favorite anime movie?",
+          "Français": "Quel est votre film d'anime préféré ?",
+          "Nederlands": "Wat is je favoriete animefilm?",
+          "日本語": "お気に入りのアニメ映画は何ですか？"
+        }
+      ],
+      "22/39": [
+        {
+          "English": "Who is your favorite anime hero?",
+          "Français": "Quel est votre héros d'anime préféré ?",
+          "Nederlands": "Wie is je favoriete anime-held?",
+          "日本語": "お気に入りのアニメヒーローは誰ですか？"
+        }
+      ],
+      "23/39": [
+        {
+          "English": "What’s an anime that you think is overrated?",
+          "Français": "Quel est un anime que vous pensez surévalué ?",
+          "Nederlands": "Welke anime vind je overschat?",
+          "日本語": "過大評価されていると思うアニメは何ですか？"
+        }
+      ],
+      "24/39": [
+        {
+          "English": "Do you like to read manga as well?",
+          "Français": "Aimez-vous aussi lire des mangas ?",
+          "Nederlands": "Lees je ook graag manga?",
+          "日本語": "マンガも読むのが好きですか？"
+        }
+      ],
+      "25/39": [
+        {
+          "English": "What’s an anime that you recommend to everyone?",
+          "Français": "Quel est un anime que vous recommandez à tout le monde ?",
+          "Nederlands": "Welke anime raad je iedereen aan?",
+          "日本語": "誰にでも勧めたいアニメは何ですか？"
+        }
+      ],
+      "26/39": [
+        {
+          "English": "Who is your favorite anime couple?",
+          "Français": "Quel est votre couple d'anime préféré ?",
+          "Nederlands": "Wie is je favoriete anime-koppel?",
+          "日本語": "お気に入りのアニメカップルは誰ですか？"
+        }
+      ],
+      "27/39": [
+        {
+          "English": "What’s an anime that you think has the best soundtrack?",
+          "Français": "Quel est un anime que vous pensez avoir la meilleure bande sonore ?",
+          "Nederlands": "Welke anime heeft volgens jou de beste soundtrack?",
+          "日本語": "最高のサウンドトラックを持っていると思うアニメは何ですか？"
+        }
+      ],
+      "28/39": [
+        {
+          "English": "Do you prefer older or newer anime?",
+          "Français": "Préférez-vous les anciens ou les nouveaux animes ?",
+          "Nederlands": "Heb je liever oudere of nieuwere anime?",
+          "日本語": "古いアニメと新しいアニメ、どちらが好きですか？"
+        }
+      ],
+      "29/39": [
+        {
+          "English": "What’s an anime that you think has the best animation?",
+          "Français": "Quel est un anime que vous pensez avoir la meilleure animation ?",
+          "Nederlands": "Welke anime heeft volgens jou de beste animatie?",
+          "日本語": "最高のアニメーションを持っていると思うアニメは何ですか？"
+        }
+      ],
+      "30/39": [
+        {
+          "English": "Who is your favorite anime director?",
+          "Français": "Quel est votre réalisateur d'anime préféré ?",
+          "Nederlands": "Wie is je favoriete anime-regisseur?",
+          "日本語": "お気に入りのアニメ監督は誰ですか？"
+        }
+      ],
+      "31/39": [
+        {
+          "English": "What’s an anime that you think has the best story?",
+          "Français": "Quel est un anime que vous pensez avoir la meilleure histoire ?",
+          "Nederlands": "Welke anime heeft volgens jou het beste verhaal?",
+          "日本語": "最高のストーリーを持っていると思うアニメは何ですか？"
+        }
+      ],
+      "32/39": [
+        {
+          "English": "Do you prefer watching anime weekly or binge-watching?",
+          "Français": "Préférez-vous regarder des animes chaque semaine ou en rafale ?",
+          "Nederlands": "Kijk je liever wekelijks naar anime of binge-watch je liever?",
+          "日本語": "アニメを見るのは毎週見るのと一気に見るの、どちらが好きですか？"
+        }
+      ],
+      "33/39": [
+        {
+          "English": "What’s an anime that you think has the best character development?",
+          "Français": "Quel est un anime que vous pensez avoir le meilleur développement de personnage ?",
+          "Nederlands": "Welke anime heeft volgens jou de beste karakterontwikkeling?",
+          "日本語": "最高のキャラクター成長を持っていると思うアニメは何ですか？"
+        }
+      ],
+      "34/39": [
+        {
+          "English": "Who is your favorite anime sidekick?",
+          "Français": "Quel est votre acolyte d'anime préféré ?",
+          "Nederlands": "Wie is je favoriete anime-sidekick?",
+          "日本語": "お気に入りのアニメのサイドキックは誰ですか？"
+        }
+      ],
+      "35/39": [
+        {
+          "English": "What’s an anime that you think has the best world-building?",
+          "Français": "Quel est un anime que vous pensez avoir la meilleure construction du monde ?",
+          "Nederlands": "Welke anime heeft volgens jou de beste wereldopbouw?",
+          "日本語": "最高の世界観を持っていると思うアニメは何ですか？"
+        }
+      ],
+      "36/39": [
+        {
+          "English": "Do you prefer anime with a lot of episodes or a few?",
+          "Français": "Préférez-vous les animes avec beaucoup d'épisodes ou peu ?",
+          "Nederlands": "Heb je liever anime met veel afleveringen of weinig?",
+          "日本語": "エピソードが多いアニメと少ないアニメ、どちらが好きですか？"
+        }
+      ],
+      "37/39": [
+        {
+          "English": "What’s an anime that you think has the best art style?",
+          "Français": "Quel est un anime que vous pensez avoir le meilleur style artistique ?",
+          "Nederlands": "Welke anime heeft volgens jou de beste kunststijl?",
+          "日本語": "最高のアートスタイルを持っていると思うアニメは何ですか？"
+        }
+      ],
+      "38/39": [
+        {
+          "English": "Who is your favorite anime mentor?",
+          "Français": "Quel est votre mentor d'anime préféré ?",
+          "Nederlands": "Wie is je favoriete anime-mentor?",
+          "日本語": "お気に入りのアニメの師匠は誰ですか？"
+        }
+      ],
+      "39/39": [
+        {
+          "English": "What’s an anime that you think has the best ending?",
+          "Français": "Quel est un anime que vous pensez avoir la meilleure fin ?",
+          "Nederlands": "Welke anime heeft volgens jou het beste einde?",
+          "日本語": "最高のエンディングを持っていると思うアニメは何ですか？"
+        }
+      ]
+    },
     "Getting to Know You": {
       "01/40": [
         {
@@ -647,6 +961,328 @@
           "Français": "Quelle scène de film vous est restée en tête longtemps après l'avoir vue ?",
           "Nederlands": "Welke filmscène is je lang bijgebleven na het kijken?",
           "日本語": "見た後も長く心に残った映画のシーンは何ですか？"
+        }
+      ]
+    },
+    "Music": {
+      "01/40": [
+        {
+          "English": "What is your favorite genre of music?",
+          "Français": "Quel est votre genre de musique préféré ?",
+          "Nederlands": "Wat is je favoriete muziekgenre?",
+          "日本語": "好きな音楽のジャンルは何ですか？"
+        }
+      ],
+      "02/40": [
+        {
+          "English": "Who is your favorite musician or band?",
+          "Français": "Quel est votre musicien ou groupe préféré ?",
+          "Nederlands": "Wie is je favoriete muzikant of band?",
+          "日本語": "お気に入りのミュージシャンやバンドは誰ですか？"
+        }
+      ],
+      "03/40": [
+        {
+          "English": "What was the first concert you ever attended?",
+          "Français": "Quel a été le premier concert auquel vous avez assisté ?",
+          "Nederlands": "Wat was het eerste concert dat je ooit hebt bijgewoond?",
+          "日本語": "初めて行ったコンサートは何ですか？"
+        }
+      ],
+      "04/40": [
+        {
+          "English": "Do you play any musical instruments?",
+          "Français": "Jouez-vous d'un instrument de musique ?",
+          "Nederlands": "Speel je een muziekinstrument?",
+          "日本語": "楽器を演奏しますか？"
+        }
+      ],
+      "05/40": [
+        {
+          "English": "What is your favorite song of all time?",
+          "Français": "Quelle est votre chanson préférée de tous les temps ?",
+          "Nederlands": "Wat is je favoriete nummer aller tijden?",
+          "日本語": "あなたのオールタイムお気に入りの曲は何ですか？"
+        }
+      ],
+      "06/40": [
+        {
+          "English": "What’s the best concert you’ve ever been to?",
+          "Français": "Quel est le meilleur concert auquel vous ayez assisté ?",
+          "Nederlands": "Wat is het beste concert waar je ooit bent geweest?",
+          "日本語": "今までに行った中で最高のコンサートは何ですか？"
+        }
+      ],
+      "07/40": [
+        {
+          "English": "Do you prefer listening to music on vinyl, CD, or streaming?",
+          "Français": "Préférez-vous écouter de la musique sur vinyle, CD ou en streaming ?",
+          "Nederlands": "Luister je liever naar muziek op vinyl, cd of streaming?",
+          "日本語": "音楽を聴くのは、レコード、CD、ストリーミングのどれが好きですか？"
+        }
+      ],
+      "08/40": [
+        {
+          "English": "What’s a song that always makes you happy?",
+          "Français": "Quelle est une chanson qui vous rend toujours heureux ?",
+          "Nederlands": "Welk nummer maakt je altijd blij?",
+          "日本語": "いつも幸せな気分にしてくれる曲は何ですか？"
+        }
+      ],
+      "09/40": [
+        {
+          "English": "Who is your favorite composer?",
+          "Français": "Quel est votre compositeur préféré ?",
+          "Nederlands": "Wie is je favoriete componist?",
+          "日本語": "お気に入りの作曲家は誰ですか？"
+        }
+      ],
+      "10/40": [
+        {
+          "English": "What’s the most memorable music festival you’ve attended?",
+          "Français": "Quel est le festival de musique le plus mémorable auquel vous avez assisté ?",
+          "Nederlands": "Wat is het meest memorabele muziekfestival dat je hebt bijgewoond?",
+          "日本語": "今までに参加した中で最も印象に残っている音楽フェスティバルは何ですか？"
+        }
+      ],
+      "11/40": [
+        {
+          "English": "Do you prefer live music or recorded music?",
+          "Français": "Préférez-vous la musique live ou enregistrée ?",
+          "Nederlands": "Heb je liever live muziek of opgenomen muziek?",
+          "日本語": "ライブ音楽と録音音楽、どちらが好きですか？"
+        }
+      ],
+      "12/40": [
+        {
+          "English": "What’s a song that reminds you of your childhood?",
+          "Français": "Quelle est une chanson qui vous rappelle votre enfance ?",
+          "Nederlands": "Welk nummer herinnert je aan je jeugd?",
+          "日本語": "子供の頃を思い出させる曲は何ですか？"
+        }
+      ],
+      "13/40": [
+        {
+          "English": "Who is an artist you’ve recently discovered and love?",
+          "Français": "Quel est un artiste que vous avez récemment découvert et que vous adorez ?",
+          "Nederlands": "Wie is een artiest die je onlangs hebt ontdekt en waar je van houdt?",
+          "日本語": "最近発見して大好きになったアーティストは誰ですか？"
+        }
+      ],
+      "14/40": [
+        {
+          "English": "What’s your favorite music video?",
+          "Français": "Quel est votre clip vidéo préféré ?",
+          "Nederlands": "Wat is je favoriete muziekvideo?",
+          "日本語": "お気に入りのミュージックビデオは何ですか？"
+        }
+      ],
+      "15/40": [
+        {
+          "English": "Do you like to sing karaoke?",
+          "Français": "Aimez-vous chanter au karaoké ?",
+          "Nederlands": "Hou je van karaoke zingen?",
+          "日本語": "カラオケで歌うのは好きですか？"
+        }
+      ],
+      "16/40": [
+        {
+          "English": "What’s a song that always makes you emotional?",
+          "Français": "Quelle est une chanson qui vous rend toujours émotif ?",
+          "Nederlands": "Welk nummer maakt je altijd emotioneel?",
+          "日本語": "いつも感動させられる曲は何ですか？"
+        }
+      ],
+      "17/40": [
+        {
+          "English": "Who is your favorite female singer?",
+          "Français": "Quelle est votre chanteuse préférée ?",
+          "Nederlands": "Wie is je favoriete zangeres?",
+          "日本語": "お気に入りの女性歌手は誰ですか？"
+        }
+      ],
+      "18/40": [
+        {
+          "English": "Who is your favorite male singer?",
+          "Français": "Quel est votre chanteur préféré ?",
+          "Nederlands": "Wie is je favoriete zanger?",
+          "日本語": "お気に入りの男性歌手は誰ですか？"
+        }
+      ],
+      "19/40": [
+        {
+          "English": "What’s a song that you never get tired of hearing?",
+          "Français": "Quelle est une chanson dont vous ne vous lassez jamais ?",
+          "Nederlands": "Welk nummer word je nooit moe van te horen?",
+          "日本語": "何度聞いても飽きない曲は何ですか？"
+        }
+      ],
+      "20/40": [
+        {
+          "English": "Do you prefer upbeat or slow songs?",
+          "Français": "Préférez-vous les chansons rythmées ou lentes ?",
+          "Nederlands": "Heb je liever vrolijke of langzame nummers?",
+          "日本語": "アップテンポの曲とスローテンポの曲、どちらが好きですか？"
+        }
+      ],
+      "21/40": [
+        {
+          "English": "What’s your favorite soundtrack from a movie?",
+          "Français": "Quelle est votre bande originale de film préférée ?",
+          "Nederlands": "Wat is je favoriete filmsoundtrack?",
+          "日本語": "お気に入りの映画のサウンドトラックは何ですか？"
+        }
+      ],
+      "22/40": [
+        {
+          "English": "Do you like classical music?",
+          "Français": "Aimez-vous la musique classique ?",
+          "Nederlands": "Hou je van klassieke muziek?",
+          "日本語": "クラシック音楽は好きですか？"
+        }
+      ],
+      "23/40": [
+        {
+          "English": "What’s a song that you associate with a special memory?",
+          "Français": "Quelle est une chanson que vous associez à un souvenir spécial ?",
+          "Nederlands": "Welk nummer associeer je met een speciale herinnering?",
+          "日本語": "特別な思い出と結びついている曲は何ですか？"
+        }
+      ],
+      "24/40": [
+        {
+          "English": "Who is your favorite music producer?",
+          "Français": "Quel est votre producteur de musique préféré ?",
+          "Nederlands": "Wie is je favoriete muziekproducent?",
+          "日本語": "お気に入りの音楽プロデューサーは誰ですか？"
+        }
+      ],
+      "25/40": [
+        {
+          "English": "What’s a song that you like to dance to?",
+          "Français": "Quelle est une chanson sur laquelle vous aimez danser ?",
+          "Nederlands": "Welk nummer dans je graag op?",
+          "日本語": "踊るのが好きな曲は何ですか？"
+        }
+      ],
+      "26/40": [
+        {
+          "English": "Do you prefer listening to music alone or with others?",
+          "Français": "Préférez-vous écouter de la musique seul ou avec d'autres ?",
+          "Nederlands": "Luister je liever alleen naar muziek of met anderen?",
+          "日本語": "音楽を聴くのは一人で聴くのと他の人と一緒に聴くの、どちらが好きですか？"
+        }
+      ],
+      "27/40": [
+        {
+          "English": "What’s a song that you think everyone should listen to?",
+          "Français": "Quelle est une chanson que vous pensez que tout le monde devrait écouter ?",
+          "Nederlands": "Welk nummer vind je dat iedereen zou moeten luisteren?",
+          "日本語": "みんなが聴くべきだと思う曲は何ですか？"
+        }
+      ],
+      "28/40": [
+        {
+          "English": "Who is your favorite guitarist?",
+          "Français": "Quel est votre guitariste préféré ?",
+          "Nederlands": "Wie is je favoriete gitarist?",
+          "日本語": "お気に入りのギタリストは誰ですか？"
+        }
+      ],
+      "29/40": [
+        {
+          "English": "What’s a song that makes you want to sing along?",
+          "Français": "Quelle est une chanson qui vous donne envie de chanter ?",
+          "Nederlands": "Welk nummer maakt dat je wilt meezingen?",
+          "日本語": "一緒に歌いたくなる曲は何ですか？"
+        }
+      ],
+      "30/40": [
+        {
+          "English": "Do you prefer oldies or modern music?",
+          "Français": "Préférez-vous les vieux classiques ou la musique moderne ?",
+          "Nederlands": "Heb je liever oude klassiekers of moderne muziek?",
+          "日本語": "古い音楽と現代の音楽、どちらが好きですか？"
+        }
+      ],
+      "31/40": [
+        {
+          "English": "What’s your favorite album of all time?",
+          "Français": "Quel est votre album préféré de tous les temps ?",
+          "Nederlands": "Wat is je favoriete album aller tijden?",
+          "日本語": "あなたのオールタイムお気に入りのアルバムは何ですか？"
+        }
+      ],
+      "32/40": [
+        {
+          "English": "Who is your favorite drummer?",
+          "Français": "Quel est votre batteur préféré ?",
+          "Nederlands": "Wie is je favoriete drummer?",
+          "日本語": "お気に入りのドラマーは誰ですか？"
+        }
+      ],
+      "33/40": [
+        {
+          "English": "What’s a song that you listen to when you’re sad?",
+          "Français": "Quelle est une chanson que vous écoutez quand vous êtes triste ?",
+          "Nederlands": "Welk nummer luister je als je verdrietig bent?",
+          "日本語": "悲しい時に聴く曲は何ですか？"
+        }
+      ],
+      "34/40": [
+        {
+          "English": "Do you like to make playlists?",
+          "Français": "Aimez-vous créer des playlists ?",
+          "Nederlands": "Hou je van het maken van afspeellijsten?",
+          "日本語": "プレイリストを作るのは好きですか？"
+        }
+      ],
+      "35/40": [
+        {
+          "English": "What’s a song that you listen to when you’re happy?",
+          "Français": "Quelle est une chanson que vous écoutez quand vous êtes heureux ?",
+          "Nederlands": "Welk nummer luister je als je blij bent?",
+          "日本語": "幸せな時に聴く曲は何ですか？"
+        }
+      ],
+      "36/40": [
+        {
+          "English": "Who is your favorite bassist?",
+          "Français": "Quel est votre bassiste préféré ?",
+          "Nederlands": "Wie is je favoriete bassist?",
+          "日本語": "お気に入りのベーシストは誰ですか？"
+        }
+      ],
+      "37/40": [
+        {
+          "English": "What’s a song that you listen to when you need motivation?",
+          "Français": "Quelle est une chanson que vous écoutez quand vous avez besoin de motivation ?",
+          "Nederlands": "Welk nummer luister je als je motivatie nodig hebt?",
+          "日本語": "モチベーションが必要な時に聴く曲は何ですか？"
+        }
+      ],
+      "38/40": [
+        {
+          "English": "Do you prefer music with lyrics or instrumental music?",
+          "Français": "Préférez-vous la musique avec des paroles ou la musique instrumentale ?",
+          "Nederlands": "Heb je liever muziek met teksten of instrumentale muziek?",
+          "日本語": "歌詞のある音楽とインストゥルメンタル音楽、どちらが好きですか？"
+        }
+      ],
+      "39/40": [
+        {
+          "English": "What’s a song that you think is underrated?",
+          "Français": "Quelle est une chanson que vous pensez sous-estimée ?",
+          "Nederlands": "Welk nummer vind je ondergewaardeerd?",
+          "日本語": "過小評価されていると思う曲は何ですか？"
+        }
+      ],
+      "40/40": [
+        {
+          "English": "Who is your favorite DJ?",
+          "Français": "Quel est votre DJ préféré ?",
+          "Nederlands": "Wie is je favoriete DJ?",
+          "日本語": "お気に入りのDJは誰ですか？"
         }
       ]
     }

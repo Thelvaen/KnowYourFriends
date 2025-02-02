@@ -1,289 +1,330 @@
 {
   "languages": [
     "English",
-    "French",
-    "Nederlands"
+    "Français",
+    "Nederlands",
+    "日本語"
   ],
   "questions": {
     "Getting to Know You": {
       "01/40": [
         {
           "English": "What is your favorite hobby?",
-          "French": "Quel est ton passe-temps favori ?",
-          "Nederlands": "Wat is je favoriete hobby?"
+          "Français": "Quel est ton passe-temps favori ?",
+          "Nederlands": "Wat is je favoriete hobby?",
+          "日本語": "あなたの好きな趣味は何ですか？"
         }
       ],
       "02/40": [
         {
           "English": "Do you prefer mornings or evenings?",
-          "French": "Préférez-vous les matins ou les soirs ?",
-          "Nederlands": "Heeft u liever ochtenden of avonden?"
+          "Français": "Préférez-vous les matins ou les soirs ?",
+          "Nederlands": "Heeft u liever ochtenden of avonden?",
+          "日本語": "朝型と夜型、どちらが好きですか？"
         }
       ],
       "03/40": [
         {
           "English": "What kind of music do you like?",
-          "French": "Quel genre de musique aimez-vous ?",
-          "Nederlands": "Welk soort muziek vind je leuk?"
+          "Français": "Quel genre de musique aimez-vous ?",
+          "Nederlands": "Welk soort muziek vind je leuk?",
+          "日本語": "どんな音楽が好きですか？"
         }
       ],
       "04/40": [
         {
           "English": "Do you enjoy traveling? If yes, where to?",
-          "French": "Aimez-vous voyager ? Si oui, où ?",
-          "Nederlands": "Reist u graag? Zo ja, waarheen?"
+          "Français": "Aimez-vous voyager ? Si oui, où ?",
+          "Nederlands": "Reist u graag? Zo ja, waarheen?",
+          "日本語": "旅行は好きですか？好きならどこに行きたいですか？"
         }
       ],
       "05/40": [
         {
           "English": "What is your dream job?",
-          "French": "Quel est votre métier de rêve ?",
-          "Nederlands": "Wat is jouw droombaan?"
+          "Français": "Quel est votre métier de rêve ?",
+          "Nederlands": "Wat is jouw droombaan?",
+          "日本語": "あなたの夢の仕事は何ですか？"
         }
       ],
       "06/40": [
         {
           "English": "Do you have any pets? If not, would you like one?",
-          "French": "Avez-vous des animaux domestiques ? Sinon, en voudriez-vous ?",
-          "Nederlands": "Heb je huisdieren? Zo nee, wil je er een?"
+          "Français": "Avez-vous des animaux domestiques ? Sinon, en voudriez-vous ?",
+          "Nederlands": "Heb je huisdieren? Zo nee, wil je er een?",
+          "日本語": "ペットを飼っていますか？いないなら飼いたいですか？"
         }
       ],
       "07/40": [
         {
           "English": "What is your favorite book or author?",
-          "French": "Quel est votre livre ou auteur préféré ?",
-          "Nederlands": "Wat is je favoriete boek of auteur?"
+          "Français": "Quel est votre livre ou auteur préféré ?",
+          "Nederlands": "Wat is je favoriete boek of auteur?",
+          "日本語": "お気に入りの本や作家は誰ですか？"
         }
       ],
       "08/40": [
         {
           "English": "Are you more of an introvert or extrovert?",
-          "French": "Êtes-vous plutôt introverti ou extraverti ?",
-          "Nederlands": "Ben je meer introvert of extravert?"
+          "Français": "Êtes-vous plutôt introverti ou extraverti ?",
+          "Nederlands": "Ben je meer introvert of extravert?",
+          "日本語": "内向的ですか、それとも外向的ですか？"
         }
       ],
       "09/40": [
         {
           "English": "What is your favorite type of cuisine?",
-          "French": "Quel est votre type de cuisine préféré ?",
-          "Nederlands": "Wat is je favoriete soort keuken?"
+          "Français": "Quel est votre type de cuisine préféré ?",
+          "Nederlands": "Wat is je favoriete soort keuken?",
+          "日本語": "あなたの好きな料理の種類は何ですか？"
         }
       ],
       "10/40": [
         {
           "English": "What is one skill you would like to learn?",
-          "French": "Quelle compétence aimeriez-vous apprendre ?",
-          "Nederlands": "Welke vaardigheid zou je willen leren?"
+          "Français": "Quelle compétence aimeriez-vous apprendre ?",
+          "Nederlands": "Welke vaardigheid zou je willen leren?",
+          "日本語": "学びたいスキルは何ですか？"
         }
       ],
       "11/40": [
         {
           "English": "What is your favorite season and why?",
-          "French": "Quelle est votre saison préférée et pourquoi ?",
-          "Nederlands": "Wat is jouw favoriete seizoen en waarom?"
+          "Français": "Quelle est votre saison préférée et pourquoi ?",
+          "Nederlands": "Wat is jouw favoriete seizoen en waarom?",
+          "日本語": "好きな季節とその理由は何ですか？"
         }
       ],
       "12/40": [
         {
           "English": "What’s the best advice you’ve ever received?",
-          "French": "Quel est le meilleur conseil que vous ayez reçu ?",
-          "Nederlands": "Wat is het beste advies dat je ooit hebt gekregen?"
+          "Français": "Quel est le meilleur conseil que vous ayez reçu ?",
+          "Nederlands": "Wat is het beste advies dat je ooit hebt gekregen?",
+          "日本語": "今までに受けた最高のアドバイスは何ですか？"
         }
       ],
       "13/40": [
         {
           "English": "What is a place you’ve always wanted to visit?",
-          "French": "Quel est un endroit que vous avez toujours voulu visiter ?",
-          "Nederlands": "Wat is een plek die je altijd al hebt willen bezoeken?"
+          "Français": "Quel est un endroit que vous avez toujours voulu visiter ?",
+          "Nederlands": "Wat is een plek die je altijd al hebt willen bezoeken?",
+          "日本語": "ずっと訪れたかった場所はどこですか？"
         }
       ],
       "14/40": [
         {
           "English": "What is your favorite movie or TV series?",
-          "French": "Quel est votre film ou série préféré ?",
-          "Nederlands": "Wat is jouw favoriete film of tv-serie?"
+          "Français": "Quel est votre film ou série préféré ?",
+          "Nederlands": "Wat is jouw favoriete film of tv-serie?",
+          "日本語": "お気に入りの映画やテレビシリーズは何ですか？"
         }
       ],
       "15/40": [
         {
           "English": "Do you prefer beaches or mountains?",
-          "French": "Préférez-vous les plages ou les montagnes ?",
-          "Nederlands": "Heeft u liever stranden of bergen?"
+          "Français": "Préférez-vous les plages ou les montagnes ?",
+          "Nederlands": "Heeft u liever stranden of bergen?",
+          "日本語": "ビーチと山、どちらが好きですか？"
         }
       ],
       "16/40": [
         {
           "English": "Do you like playing sports or prefer watching them?",
-          "French": "Aimez-vous pratiquer des sports ou préférez-vous les regarder ?",
-          "Nederlands": "Speel je liever sporten of kijk je er liever naar?"
+          "Français": "Aimez-vous pratiquer des sports ou préférez-vous les regarder ?",
+          "Nederlands": "Speel je liever sporten of kijk je er liever naar?",
+          "日本語": "スポーツをするのが好きですか、それとも観るのが好きですか？"
         }
       ],
       "17/40": [
         {
           "English": "What motivates you the most?",
-          "French": "Qu'est-ce qui vous motive le plus ?",
-          "Nederlands": "Wat motiveert jou het meest?"
+          "Français": "Qu'est-ce qui vous motive le plus ?",
+          "Nederlands": "Wat motiveert jou het meest?",
+          "日本語": "最もやる気が出るものは何ですか？"
         }
       ],
       "18/40": [
         {
           "English": "What is your biggest accomplishment so far?",
-          "French": "Quelle est votre plus grande réussite jusqu'à présent ?",
-          "Nederlands": "Wat is jouw grootste prestatie tot nu toe?"
+          "Français": "Quelle est votre plus grande réussite jusqu'à présent ?",
+          "Nederlands": "Wat is jouw grootste prestatie tot nu toe?",
+          "日本語": "これまでの最大の成果は何ですか？"
         }
       ],
       "19/40": [
         {
           "English": "If you could live anywhere, where would it be?",
-          "French": "Si vous pouviez vivre n'importe où, où serait-ce ?",
-          "Nederlands": "Als je overal kon wonen, waar zou dat zijn?"
+          "Français": "Si vous pouviez vivre n'importe où, où serait-ce ?",
+          "Nederlands": "Als je overal kon wonen, waar zou dat zijn?",
+          "日本語": "どこにでも住めるとしたら、どこに住みたいですか？"
         }
       ],
       "20/40": [
         {
           "English": "Do you prefer reading books or watching movies?",
-          "French": "Préférez-vous lire des livres ou regarder des films ?",
-          "Nederlands": "Leest u liever boeken of kijkt u liever films?"
+          "Français": "Préférez-vous lire des livres ou regarder des films ?",
+          "Nederlands": "Leest u liever boeken of kijkt u liever films?",
+          "日本語": "本を読むのと映画を見るの、どちらが好きですか？"
         }
       ],
       "21/40": [
         {
           "English": "What is your favorite childhood memory?",
-          "French": "Quel est votre souvenir d'enfance préféré ?",
-          "Nederlands": "Wat is je favoriete jeugdherinnering?"
+          "Français": "Quel est votre souvenir d'enfance préféré ?",
+          "Nederlands": "Wat is je favoriete jeugdherinnering?",
+          "日本語": "子供の頃の一番の思い出は何ですか？"
         }
       ],
       "22/40": [
         {
           "English": "Do you enjoy cooking? If so, what do you like to cook?",
-          "French": "Aimez-vous cuisiner ? Si oui, que préférez-vous cuisiner ?",
-          "Nederlands": "Houd je van koken? Zo ja, wat kook je graag?"
+          "Français": "Aimez-vous cuisiner ? Si oui, que préférez-vous cuisiner ?",
+          "Nederlands": "Houd je van koken? Zo ja, wat kook je graag?",
+          "日本語": "料理は好きですか？好きなら何を作るのが好きですか？"
         }
       ],
       "23/40": [
         {
           "English": "What is your favorite way to relax?",
-          "French": "Quelle est votre façon préférée de vous détendre ?",
-          "Nederlands": "Wat is jouw favoriete manier om te ontspannen?"
+          "Français": "Quelle est votre façon préférée de vous détendre ?",
+          "Nederlands": "Wat is jouw favoriete manier om te ontspannen?",
+          "日本語": "リラックスするための一番の方法は何ですか？"
         }
       ],
       "24/40": [
         {
           "English": "Do you believe in luck or fate?",
-          "French": "Croyez-vous à la chance ou au destin ?",
-          "Nederlands": "Geloof je in geluk of het lot?"
+          "Français": "Croyez-vous à la chance ou au destin ?",
+          "Nederlands": "Geloof je in geluk of het lot?",
+          "日本語": "運や運命を信じますか？"
         }
       ],
       "25/40": [
         {
           "English": "What’s your favorite holiday or celebration?",
-          "French": "Quelle est votre fête ou célébration préférée ?",
-          "Nederlands": "Wat is jouw favoriete feest of viering?"
+          "Français": "Quelle est votre fête ou célébration préférée ?",
+          "Nederlands": "Wat is jouw favoriete feest of viering?",
+          "日本語": "お気に入りの祝日やお祝いは何ですか？"
         }
       ],
       "26/40": [
         {
           "English": "Are you more of a planner or spontaneous?",
-          "French": "Êtes-vous plutôt un planificateur ou spontané ?",
-          "Nederlands": "Ben je meer een planner of spontaan?"
+          "Français": "Êtes-vous plutôt un planificateur ou spontané ?",
+          "Nederlands": "Ben je meer een planner of spontaan?",
+          "日本語": "計画的ですか、それとも直感的ですか？"
         }
       ],
       "27/40": [
         {
           "English": "What kind of movies do you enjoy watching?",
-          "French": "Quel genre de films aimez-vous regarder ?",
-          "Nederlands": "Wat voor soort films kijk je graag?"
+          "Français": "Quel genre de films aimez-vous regarder ?",
+          "Nederlands": "Wat voor soort films kijk je graag?",
+          "日本語": "どんな映画を見るのが好きですか？"
         }
       ],
       "28/40": [
         {
           "English": "What do you value most in friendships?",
-          "French": "Qu'appréciez-vous le plus dans les amitiés ?",
-          "Nederlands": "Wat waardeer je het meest in vriendschappen?"
+          "Français": "Qu'appréciez-vous le plus dans les amitiés ?",
+          "Nederlands": "Wat waardeer je het meest in vriendschappen?",
+          "日本語": "友情で一番大切にしていることは何ですか？"
         }
       ],
       "29/40": [
         {
           "English": "What is your favorite thing to do on weekends?",
-          "French": "Quelle est votre activité préférée le week-end ?",
-          "Nederlands": "Wat doe je het liefst in het weekend?"
+          "Français": "Quelle est votre activité préférée le week-end ?",
+          "Nederlands": "Wat doe je het liefst in het weekend?",
+          "日本語": "週末にするのが好きなことは何ですか？"
         }
       ],
       "30/40": [
         {
           "English": "Do you like board games or video games?",
-          "French": "Aimez-vous les jeux de société ou les jeux vidéo ?",
-          "Nederlands": "Houd je van bordspellen of videogames?"
+          "Français": "Aimez-vous les jeux de société ou les jeux vidéo ?",
+          "Nederlands": "Houd je van bordspellen of videogames?",
+          "日本語": "ボードゲームとビデオゲーム、どちらが好きですか？"
         }
       ],
       "31/40": [
         {
           "English": "What is something you are currently learning?",
-          "French": "Qu'apprenez-vous actuellement ?",
-          "Nederlands": "Wat leer je momenteel?"
+          "Français": "Qu'apprenez-vous actuellement ?",
+          "Nederlands": "Wat leer je momenteel?",
+          "日本語": "今、学んでいることは何ですか？"
         }
       ],
       "32/40": [
         {
           "English": "If you could have any superpower, what would it be?",
-          "French": "Si vous pouviez avoir un super-pouvoir, quel serait-il ?",
-          "Nederlands": "Als je een superkracht kon hebben, wat zou het zijn?"
+          "Français": "Si vous pouviez avoir un super-pouvoir, quel serait-il ?",
+          "Nederlands": "Als je een superkracht kon hebben, wat zou het zijn?",
+          "日本語": "どんなスーパーパワーが欲しいですか？"
         }
       ],
       "33/40": [
         {
           "English": "Do you prefer sweet or savory snacks?",
-          "French": "Préférez-vous les en-cas sucrés ou salés ?",
-          "Nederlands": "Houd je meer van zoete of hartige snacks?"
+          "Français": "Préférez-vous les en-cas sucrés ou salés ?",
+          "Nederlands": "Houd je meer van zoete of hartige snacks?",
+          "日本語": "甘いおやつと塩辛いおやつ、どちらが好きですか？"
         }
       ],
       "34/40": [
         {
           "English": "Who has been the most influential person in your life?",
-          "French": "Qui a été la personne la plus influente de votre vie ?",
-          "Nederlands": "Wie is de meest invloedrijke persoon in jouw leven geweest?"
+          "Français": "Qui a été la personne la plus influente de votre vie ?",
+          "Nederlands": "Wie is de meest invloedrijke persoon in jouw leven geweest?",
+          "日本語": "あなたの人生で最も影響を受けた人は誰ですか？"
         }
       ],
       "35/40": [
         {
           "English": "What is a cause or issue you care deeply about?",
-          "French": "Quelle est une cause ou un problème qui vous tient à cœur ?",
-          "Nederlands": "Wat is een zaak of kwestie die je na aan het hart ligt?"
+          "Français": "Quelle est une cause ou un problème qui vous tient à cœur ?",
+          "Nederlands": "Wat is een zaak of kwestie die je na aan het hart ligt?",
+          "日本語": "心から大切にしている原因や問題は何ですか？"
         }
       ],
       "36/40": [
         {
           "English": "Do you like surprises, or do you prefer to know everything beforehand?",
-          "French": "Aimez-vous les surprises ou préférez-vous tout savoir à l'avance ?",
-          "Nederlands": "Houd je van verrassingen, of weet je liever alles van tevoren?"
+          "Français": "Aimez-vous les surprises ou préférez-vous tout savoir à l'avance ?",
+          "Nederlands": "Houd je van verrassingen, of weet je liever alles van tevoren?",
+          "日本語": "驚きが好きですか、それとも何でも事前に知りたいですか？"
         }
       ],
       "37/40": [
         {
           "English": "What is one thing you are really good at?",
-          "French": "Quelle est une chose dans laquelle vous excellez ?",
-          "Nederlands": "Wat is iets waar je echt goed in bent?"
+          "Français": "Quelle est une chose dans laquelle vous excellez ?",
+          "Nederlands": "Wat is iets waar je echt goed in bent?",
+          "日本語": "得意なことは何ですか？"
         }
       ],
       "38/40": [
         {
           "English": "What is a fun fact about yourself that not many people know?",
-          "French": "Quel est un fait amusant à propos de vous que peu de gens connaissent ?",
-          "Nederlands": "Wat is een leuk feit over jou dat niet veel mensen weten?"
+          "Français": "Quel est un fait amusant à propos de vous que peu de gens connaissent ?",
+          "Nederlands": "Wat is een leuk feit over jou dat niet veel mensen weten?",
+          "日本語": "あまり知られていない自分についての面白い事実は何ですか？"
         }
       ],
       "39/40": [
         {
           "English": "Do you enjoy meeting new people?",
-          "French": "Aimez-vous rencontrer de nouvelles personnes ?",
-          "Nederlands": "Vind je het leuk om nieuwe mensen te ontmoeten?"
+          "Français": "Aimez-vous rencontrer de nouvelles personnes ?",
+          "Nederlands": "Vind je het leuk om nieuwe mensen te ontmoeten?",
+          "日本語": "新しい人と出会うのは好きですか？"
         }
       ],
       "40/40": [
         {
           "English": "What is your proudest moment?",
-          "French": "Quel est le moment dont vous êtes le plus fier ?",
-          "Nederlands": "Wat is jouw trotsste moment?"
+          "Français": "Quel est le moment dont vous êtes le plus fier ?",
+          "Nederlands": "Wat is jouw trotsste moment?",
+          "日本語": "あなたが最も誇りに思う瞬間は何ですか？"
         }
       ]
     }

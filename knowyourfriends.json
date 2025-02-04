@@ -1293,6 +1293,650 @@
           "日本語": "お気に入りのDJは誰ですか？"
         }
       ]
+    },
+    "Variety 1": {
+      "01/40": [
+        {
+          "English": "Which is the edgiest anime that you ever watched?",
+          "Français": "Quel est l'anime le plus \"edgy\" que vous avez regardé?",
+          "Nederlands": "Wat is de meest \"edgy\" anime die je ooit gezien hebt?",
+          "日本語": "あなたが見た中で一番過激なアニメはどれですか？"
+        }
+      ],
+      "02/40": [
+        {
+          "English": "What is the most overrated or underrated movie and why?",
+          "Français": "Quel est le film le plus surrepris ou sous évalué et pourquoi?",
+          "Nederlands": "Wat is de meest overschatte of onderschatte film en waarom?",
+          "日本語": "最も過大評価または過小評価された映画はどれですか、その理由は何ですか？"
+        }
+      ],
+      "03/40": [
+        {
+          "English": "If you could change your gender, would you do it?",
+          "Français": "Si vous pouviez changer de sexe, le feriez-vous?",
+          "Nederlands": "Zou je je geslacht veranderen als je het kon?",
+          "日本語": "あなたが性別を変更できるならそうするでしょうか？"
+        }
+      ],
+      "04/40": [
+        {
+          "English": "What is best meme?",
+          "Français": "Quel est le meilleur mème?",
+          "Nederlands": "Wat is de beste meme?",
+          "日本語": "一番良いメムは何か？"
+        }
+      ],
+      "05/40": [
+        {
+          "English": "Which meme should die?",
+          "Français": "Quel mème devrait mourir?",
+          "Nederlands": "Welke meme zou moeten sterven?",
+          "日本語": "どのメムが終わるべきでしょうか？"
+        }
+      ],
+      "06/40": [
+        {
+          "English": "What was your dream job when you were young?",
+          "Français": "Quel était votre rêve de travail lorsque vous étiez jeune?",
+          "Nederlands": "Wat was je droomberoep toen je jong was?",
+          "日本語": "あなたが若い頃に夢見た仕事は何でしたか？"
+        }
+      ],
+      "07/40": [
+        {
+          "English": "What is the best song of all time?",
+          "Français": "Quel est le meilleur morceau de musique de tous les temps?",
+          "Nederlands": "Wat is de beste song aller tijden?",
+          "日本語": "いちばん良い曲はどれですか？"
+        }
+      ],
+      "08/40": [
+        {
+          "English": "What is the best film music of all time?",
+          "Français": "Quel est le meilleur film musique de tous les temps?",
+          "Nederlands": "Wat is de beste filmmuziek aller tijden?",
+          "日本語": "いちばん良い映画音楽はどれですか？"
+        }
+      ],
+      "09/40": [
+        {
+          "English": "What is the best movie of all time?",
+          "Français": "Quel est le meilleur film de tous les temps?",
+          "Nederlands": "Wat is de beste film aller tijden?",
+          "日本語": "いちばん良い映画はどれですか？"
+        }
+      ],
+      "10/40": [
+        {
+          "English": "What anime character is the most relatable for you?",
+          "Français": "Quel personnage d'anime est le plus relatable pour toi?",
+          "Nederlands": "Welk anime karakter is het meest verband houdend voor jou?",
+          "日本語": "あなたにとって一番近いアニメキャラクターはどれですか？"
+        }
+      ],
+      "11/40": [
+        {
+          "English": "Your favorite couple?",
+          "Français": "Votre couple préféré?",
+          "Nederlands": "Jouw favoriete stel?",
+          "日本語": "あなたのお気に入りのカップルはどれですか？"
+        }
+      ],
+      "12/40": [
+        {
+          "English": "Your favorite fan fiction or fan ship?",
+          "Français": "Votre fiction ou votre navire préféré?",
+          "Nederlands": "Jouw favoriete fan fictie of fan ship?",
+          "日本語": "あなたのお気に入りのファンフィクションまたはファンシップはどれですか？"
+        }
+      ],
+      "13/40": [
+        {
+          "English": "What is your spirit animal?",
+          "Français": "Quel est votre animal de compagnie?",
+          "Nederlands": "Wat is je geestdier?",
+          "日本語": "あなたの精神動物はどれですか？"
+        }
+      ],
+      "14/40": [
+        {
+          "English": "Which character is missing in VRChat?",
+          "Français": "Quel personnage manque à VRChat?",
+          "Nederlands": "Welk karakter ontbreekt in VRChat?",
+          "日本語": "VRChatに欠けているキャラクターはどれですか？"
+        }
+      ],
+      "15/40": [
+        {
+          "English": "How many times did you dab in your life?",
+          "Français": "Combien de fois avez-vous dabé dans votre vie?",
+          "Nederlands": "Hoe vaak heb je je leven gedabt?",
+          "日本語": "あなたの人生でどれくらいダブしましたか？"
+        }
+      ],
+      "16/40": [
+        {
+          "English": "How many relationships have you had in your life?",
+          "Français": "Combien de relations avez-vous eu dans votre vie?",
+          "Nederlands": "Hoeveel relaties hebt u gehad in uw leven?",
+          "日本語": "あなたの人生ではどれくらいの関係が存在しましたか？"
+        }
+      ],
+      "17/40": [
+        {
+          "English": "How long was your longest relationship?",
+          "Français": "Combien de temps a duré votre relation la plus longue?",
+          "Nederlands": "Hoe lang was uw langste relatie?",
+          "日本語": "あなたの人生で一番長かった関係はどれくらい続きましたか？"
+        }
+      ],
+      "18/40": [
+        {
+          "English": "Favorite anime genre?",
+          "Français": "Votre genre d'anime préféré?",
+          "Nederlands": "Jouw favoriete anime genre?",
+          "日本語": "あなたのお気に入りのアニメジャンルはどれですか？"
+        }
+      ],
+      "19/40": [
+        {
+          "English": "Least favorite anime genre?",
+          "Français": "Votre genre d'anime le moins préféré?",
+          "Nederlands": "Jouw minst favoriete anime genre?",
+          "日本語": "あなたが一番嫌いなアニメジャンルはどれですか？"
+        }
+      ],
+      "20/40": [
+        {
+          "English": "Most dissapointing movie or series?",
+          "Français": "Le film ou la série la plus décevante?",
+          "Nederlands": "De meest teleurstellende film of serie?",
+          "日本語": "いちばん残念な映画やシリーズはどれですか？"
+        }
+      ],
+      "21/40": [
+        {
+          "English": "Best VR game?",
+          "Français": "Le meilleur jeu VR?",
+          "Nederlands": "De beste VR game?",
+          "日本語": "いちばん良いVRゲームはどれですか？"
+        }
+      ],
+      "22/40": [
+        {
+          "English": "Have you ever been involved in a shitstorm?",
+          "Français": "Avez-vous jamais été impliqué dans une tempête de merde?",
+          "Nederlands": "Hebt u ooit deelgenomen aan een shitstorm?",
+          "日本語": "あなたはいつか大きなスキャンダルに巻き込まれたことはありますか？"
+        }
+      ],
+      "23/40": [
+        {
+          "English": "Have you ever been involved in drama?",
+          "Français": "Avez-vous jamais été impliqué dans un drame?",
+          "Nederlands": "Hebt u ooit deelgenomen aan een drama?",
+          "日本語": "あなたはいつか一つのドラマに巻き込まれたことはありますか？"
+        }
+      ],
+      "24/40": [
+        {
+          "English": "What was the most depressing movie you ever watched?",
+          "Français": "Quel était le film le plus déprimant que vous avez regardé?",
+          "Nederlands": "Wat was de meest deprimerende film die je ooit zag?",
+          "日本語": "あなたが見た中で一番悲しい映画はどれですか？"
+        }
+      ],
+      "25/40": [
+        {
+          "English": "Favorite food?",
+          "Français": "Votre nourriture préférée?",
+          "Nederlands": "Jouw favoriete eten?",
+          "日本語": "あなたのお気に入りの食べ物はどれですか？"
+        }
+      ],
+      "26/40": [
+        {
+          "English": "Favorite drink?",
+          "Français": "Votre boisson préférée?",
+          "Nederlands": "Jouw favoriete drank?",
+          "日本語": "あなたのお気に入りの飲み物はどれですか？"
+        }
+      ],
+      "27/40": [
+        {
+          "English": "Should pinapple on pizza be legalized?",
+          "Français": "La pine sur la pizza devrait-elle être légalisée?",
+          "Nederlands": "Moet ananas op pizza gelegaliseerd worden?",
+          "日本語": "パイナップルピザを合法化するべきでしょうか？"
+        }
+      ],
+      "28/40": [
+        {
+          "English": "Which anime is on your watchlist next?",
+          "Français": "Quel anime est sur votre liste de lecture suivant?",
+          "Nederlands": "Welk anime staat op uw volgende wachtlijst?",
+          "日本語": "あなたが次に見るアニメはどれですか？"
+        }
+      ],
+      "29/40": [
+        {
+          "English": "Which movie or series are you ashamed to have watched?",
+          "Français": "Quel film ou quelle série êtes-vous honteux d'avoir regardé?",
+          "Nederlands": "Welke film of serie schaamt u zich om te hebben bekeken?",
+          "日本語": "あなたが見た映画やドラマの中で恥ずかしいものはどれですか？"
+        }
+      ],
+      "30/40": [
+        {
+          "English": "Who is your favorite villain?",
+          "Français": "Qui est votre méchant préféré?",
+          "Nederlands": "Wie is jouw favoriete schurk?",
+          "日本語": "あなたのお気に入りの悪役はどれですか？"
+        }
+      ],
+      "31/40": [
+        {
+          "English": "Who is your favorite hero?",
+          "Français": "Qui est votre héros préféré?",
+          "Nederlands": "Wie is jouw favoriete held?",
+          "日本語": "あなたのお気に入りの英雄はどれですか？"
+        }
+      ],
+      "32/40": [
+        {
+          "English": "What person are you most inspired by?",
+          "Français": "Qui est la personne qui vous inspire le plus?",
+          "Nederlands": "Wie is de persoon die u het meest inspireert?",
+          "日本語": "あなたが一番影響を受けた人はいったい誰ですか？"
+        }
+      ],
+      "33/40": [
+        {
+          "English": "What was the saddest scene that you ever saw in a movie or series?",
+          "Français": "Quelle était la scène la plus triste que vous avez vue dans un film ou une série?",
+          "Nederlands": "Wat was de triestste scène die je ooit zag in een film of serie?",
+          "日本語": "あなたが見た中で一番悲しい映画やドラマのシーンはどれですか？"
+        }
+      ],
+      "34/40": [
+        {
+          "English": "Your favorite Ghibli movie?",
+          "Français": "Votre film Ghibli préféré?",
+          "Nederlands": "Jouw favoriete Ghibli film?",
+          "日本語": "あなたのお気に入りのジブリ作品はどれですか？"
+        }
+      ],
+      "35/40": [
+        {
+          "English": "Which movie or series should get a sequel?",
+          "Français": "Quel film ou quelle série devrait avoir une suite?",
+          "Nederlands": "Welke film of serie zou een vervolg moeten krijgen?",
+          "日本語": "継作されるべき映画やドラマはどれですか？"
+        }
+      ],
+      "36/40": [
+        {
+          "English": "Name a song you love singing to in the car!",
+          "Français": "Nommer une chanson que vous aimez chanter en voiture!",
+          "Nederlands": "Noem een liedje dat je leuk vindt te zingen in de auto!",
+          "日本語": "車の中で歌うのが楽しい曲はどれですか？"
+        }
+      ],
+      "37/40": [
+        {
+          "English": "Who was your biggest crush when you were younger?",
+          "Français": "Qui était votre plus grand crush lorsque vous étiez plus jeune?",
+          "Nederlands": "Wie was jouw grootste crush toen je jonger was?",
+          "日本語": "あなたが若い頃に一番思いを寄せていた人はいったい誰ですか？"
+        }
+      ],
+      "38/40": [
+        {
+          "English": "Which popular person do you think you'd get along with well?",
+          "Français": "Qui est la personne populaire avec laquelle vous pensez que vous vous entendriez bien?",
+          "Nederlands": "Wie is de bekende persoon met wie je denkt dat je goed overweg zou kunnen?",
+          "日本語": "あなたが仲がいいと思う有名人は誰ですか？"
+        }
+      ],
+      "39/40": [
+        {
+          "English": "Which game or reality show would you do best on?",
+          "Français": "Quel jeu ou quel programme de télé-réalité feriez-vous le mieux?",
+          "Nederlands": "Welk spel of realityshow zou je het best doen?",
+          "日本語": "あなたが一番できるゲームやテレビ番組はどれですか？"
+        }
+      ],
+      "40/40": [
+        {
+          "English": "What do you do that makes people laugh the hardest?",
+          "Français": "Qu'est-ce que vous faites qui fait rire les gens le plus fort?",
+          "Nederlands": "Wat doet u dat mensen het hardst aan het lachen maakt?",
+          "日本語": "あなたがすることをして人々が一番笑うものはどれですか？"
+        }
+      ]
+    },
+    "Variety 2": {
+      "01/40": [
+        {
+          "English": "What is your favorite activity in VRChat?",
+          "Français": "Quel est votre activité préférée dans VRChat?",
+          "Nederlands": "Wat is je favoriete activiteit in VRChat?",
+          "日本語": "あなたのお気に入りのVRChatアクティビティはどれですか？"
+        }
+      ],
+      "02/40": [
+        {
+          "English": "What countries have you been to?",
+          "Français": "Quels pays avez-vous visités?",
+          "Nederlands": "Welke landen hebt u bezocht?",
+          "日本語": "あなたはどの国に行きましたか？"
+        }
+      ],
+      "03/40": [
+        {
+          "English": "What are you looking forward to in the upcoming months?",
+          "Français": "À quoi vous attendez-vous dans les mois à venir?",
+          "Nederlands": "Waar kijkt u naar uit in de komende maanden?",
+          "日本語": "あなたはこれから数ヶ月でどんなことを期待していますか？"
+        }
+      ],
+      "04/40": [
+        {
+          "English": "Do you have any pets?",
+          "Français": "Avez-vous des animaux de compagnie?",
+          "Nederlands": "Hebt u huisdieren?",
+          "日本語": "あなたはペットを持っていますか？"
+        }
+      ],
+      "05/40": [
+        {
+          "English": "What are you the most passionate about?",
+          "Français": "Qu'est-ce que vous êtes le plus passionné?",
+          "Nederlands": "Waarmee bent u het meest gepassioneerd?",
+          "日本語": "あなたが一番情熱的になることはどれですか？"
+        }
+      ],
+      "06/40": [
+        {
+          "English": "What would you like to change in your life?",
+          "Français": "Qu'est-ce que vous voudriez changer dans votre vie?",
+          "Nederlands": "Wat zou u in uw leven willen veranderen?",
+          "日本語": "あなたの人生で変更したいことは何ですか？"
+        }
+      ],
+      "07/40": [
+        {
+          "English": "What would you like not to change in your life?",
+          "Français": "Qu'est-ce que vous ne voudriez pas changer dans votre vie?",
+          "Nederlands": "Wat wilt u niet veranderen in uw leven?",
+          "日本語": "あなたは人生で変更しがいがないことは何ですか？"
+        }
+      ],
+      "08/40": [
+        {
+          "English": "What is a skill you would like to master?",
+          "Français": "Quelle est la compétence que vous aimeriez maîtriser?",
+          "Nederlands": "Welke vaardigheid zou u graag beheersen?",
+          "日本語": "あなたが修得したいスキルはどれですか？"
+        }
+      ],
+      "09/40": [
+        {
+          "English": "What is something you will never do again?",
+          "Français": "Qu'est-ce que vous ne referez jamais?",
+          "Nederlands": "Wat doet u nooit meer?",
+          "日本語": "あなたは一生で再びしないことはどれですか？"
+        }
+      ],
+      "10/40": [
+        {
+          "English": "What do you always procrastinate on?",
+          "Français": "Qu'est-ce que vous laissez toujours en suspens?",
+          "Nederlands": "Wat laat u altijd liggen?",
+          "日本語": "あなたはいつも先延ばしにすることはどれですか？"
+        }
+      ],
+      "11/40": [
+        {
+          "English": "What is your favorite thing to do alone?",
+          "Français": "Qu'est-ce que vous aimez faire seul?",
+          "Nederlands": "Wat vindt u het leukste om alleen te doen?",
+          "日本語": "あなたがさり気なく行うことはどれですか？"
+        }
+      ],
+      "12/40": [
+        {
+          "English": "If you could change one thing about yourself, what would it be?",
+          "Français": "Si vous pouviez changer une chose sur vous-même, quelle serait-elle?",
+          "Nederlands": "Als u één ding aan uzelf kon veranderen, wat zou het zijn?",
+          "日本語": "あなたが自分で変更できるなら、何にしたいですか？"
+        }
+      ],
+      "13/40": [
+        {
+          "English": "When did you stop believing in the easter bunny?",
+          "Français": "Quand avez-vous arrêté de croire au lapin de Pâques?",
+          "Nederlands": "Wanneer hield u op in de paashaas te geloven?",
+          "日本語": "イースターバニーのいるのを信じるのをやめたのはいつですか？"
+        }
+      ],
+      "14/40": [
+        {
+          "English": "Is there something else you should be doing right now?",
+          "Français": "Y a-t-il autre chose que vous devriez faire en ce moment?",
+          "Nederlands": "Zou u nu iets anders moeten doen?",
+          "日本語": "あなたが今動こうとしているべきことは他に何ですか？"
+        }
+      ],
+      "15/40": [
+        {
+          "English": "What was the most exciting thing you have done in the past month?",
+          "Français": "Qu'est-ce que vous avez fait de plus excitant dans le mois passé?",
+          "Nederlands": "Wat was het spannendste wat u in de afgelopen maand heeft gedaan?",
+          "日本語": "あなたが過去の1ヶ月で最もワクワクしたことはどれですか？"
+        }
+      ],
+      "16/40": [
+        {
+          "English": "Do you create art? If yes what kind of art?",
+          "Français": "Créez-vous de l'art? Si oui, quel type d'art?",
+          "Nederlands": "Maakt u kunst? Zo ja, wat voor soort kunst?",
+          "日本語": "あなたはアートを作りますか。もしそうなら、何をお好みですか?"
+        }
+      ],
+      "17/40": [
+        {
+          "English": "What's the silliest thing you've done this week?",
+          "Français": "Quelle est la chose la plus ridicule que vous avez faite cette semaine?",
+          "Nederlands": "Wat is de-domste dingen die u deze week gedaan heeft?",
+          "日本語": "あなたが今週やってみた、どれくらい馬鹿な行為ですか?"
+        }
+      ],
+      "18/40": [
+        {
+          "English": "If you could have a superpower, what would it be?",
+          "Français": "Si vous pouviez avoir un superpouvoir, quel serait-il?",
+          "Nederlands": "Als u een superkracht kon hebben, welke zou het zijn?",
+          "日本語": "あなたが超能力を持つことができたら、何を選びますか？"
+        }
+      ],
+      "19/40": [
+        {
+          "English": "How chaotic is your place when nobody is visiting?",
+          "Français": "Combien est votre place chaotique lorsque personne ne vous rend visite?",
+          "Nederlands": "Hoe chaotisch zijn uw ruimten als niemand op bezoek komt?",
+          "日本語": "あなたの部屋は一般人に来たときよりも、混雑していますか？"
+        }
+      ],
+      "20/40": [
+        {
+          "English": "If you had unlimited money, what is the one thing you would buy?",
+          "Français": "Si vous aviez de l'argent illimité, quelle serait la chose que vous achèteriez?",
+          "Nederlands": "Als u onbeperkt geld had, wat zou u kopen?",
+          "日本語": "あなたが無限のお金を持ていたら、何を買うでしょうか？"
+        }
+      ],
+      "21/40": [
+        {
+          "English": "What is the amount of people you enjoy hanging out with the most?",
+          "Français": "Quel est le nombre de personnes avec lesquels vous aimez le plus passer du temps?",
+          "Nederlands": "Hoeveel mensen vindt u het leukste om mee op te trekken?",
+          "日本語": "あなたが一番一緒にいるのを楽しみにする人数はどれですか？"
+        }
+      ],
+      "22/40": [
+        {
+          "English": "Name one thing you are really good at.",
+          "Français": "Nommez une chose à laquelle vous êtes vraiment doué.",
+          "Nederlands": "Noem één ding waar u echt goed in bent.",
+          "日本語": "あなたが特にいいたいわけのある才能があることは何ですか？"
+        }
+      ],
+      "23/40": [
+        {
+          "English": "Name one thing you are really bad at.",
+          "Français": "Nommez une chose à laquelle vous êtes vraiment mauvais.",
+          "Nederlands": "Noem één ding waar u echt slecht in bent.",
+          "日本語": "あなたが特に苦手なことは何ですか？"
+        }
+      ],
+      "24/40": [
+        {
+          "English": "If you could, what avatar would you want to have?",
+          "Français": "Si vous pouviez, quel avatar aimeriez-vous avoir?",
+          "Nederlands": "Als je kon, welk avatar zou je willen hebben?",
+          "日本語": "あなたがアバターが見た目を変えたいと思うなら、どんなアバターがおすすめですか？"
+        }
+      ],
+      "25/40": [
+        {
+          "English": "If you could, what VRChat world would you want to create?",
+          "Français": "Si vous pouviez, quel monde de VRChat aimeriez-vous créer?",
+          "Nederlands": "Als je kon, welke VRChat wereld zou je willen maken?",
+          "日本語": "あなたがVRChatの世界を作りたいとしたら、何を作りたいですか？"
+        }
+      ],
+      "26/40": [
+        {
+          "English": "Do you have a friend who knows almost everything about you?",
+          "Français": "Avez-vous un ami qui sait presque tout sur vous?",
+          "Nederlands": "Hebt u een vriend die bijna alles van u weet?",
+          "日本語": "あなたはあなたがまるごと知られている友人をいますか？"
+        }
+      ],
+      "27/40": [
+        {
+          "English": "Do you keep secrets from your friends / parents?",
+          "Français": "Gardez-vous des secrets face à vos amis / parents?",
+          "Nederlands": "Bewaart u geheimen voor uw vrienden / ouders?",
+          "日本語": "あなたは友達や家族から秘密を隠していますか？"
+        }
+      ],
+      "28/40": [
+        {
+          "English": "Are you open about your hobbys at work?",
+          "Français": "Êtes-vous ouvert sur vos hobbies au travail?",
+          "Nederlands": "Bent u open over uw hobby's op uw werk?",
+          "日本語": "あなたは職場で趣味についてオープンに話しますか？"
+        }
+      ],
+      "29/40": [
+        {
+          "English": "Who is best girl or boi?",
+          "Français": "Qui est la meilleure fille ou le meilleur garçon?",
+          "Nederlands": "Wie is de beste meid of gozer?",
+          "日本語": "どちらの方が最高の娘や息子ですか？"
+        }
+      ],
+      "30/40": [
+        {
+          "English": "Who's your biggest crush from a movie / TV show / PC game?",
+          "Français": "Qui est votre plus grand coup de foudre dans un film / émission de télévision / jeu vidéo?",
+          "Nederlands": "Wie is uw grootste crush uit een film, TV-serie en computer game?",
+          "日本語": "映画やテレビ番組、ゲームで一番思いを寄せた人は誰ですか？"
+        }
+      ],
+      "31/40": [
+        {
+          "English": "Who's your biggest crush in VRChat?",
+          "Français": "Qui est votre plus grand coup de foudre dans VRChat?",
+          "Nederlands": "Wie is uw grootste crush in VRChat?",
+          "日本語": "VRChatで一番思いを寄せた人は誰ですか？"
+        }
+      ],
+      "32/40": [
+        {
+          "English": "If you could live together with a fictional character, who would it be?",
+          "Français": "Si vous pouviez vivre avec un personnage de fiction, qui serait-il?",
+          "Nederlands": "Als je samen kon wonen met een personage uit een film, wie zou het zijn?",
+          "日本語": "あなたが一緒に住みたい架空のキャラクターは誰ですか？"
+        }
+      ],
+      "33/40": [
+        {
+          "English": "If you could live as a fictional character, who would it be?",
+          "Français": "Si vous pouviez vivre en tant que personnage de fiction, qui seriez-vous?",
+          "Nederlands": "Als je een personage uit een film kon zijn, wie zou je zijn?",
+          "日本語": "あなたが架空のキャラクターとして人生を送りたいとしたら誰になりたいですか？"
+        }
+      ],
+      "34/40": [
+        {
+          "English": "If you could live in a fictional universe, which one would it be?",
+          "Français": "Si vous pouviez vivre dans un univers de fiction, lequel serait-il?",
+          "Nederlands": "Als je in een filmuniversum kon wonen, welke zou het zijn?",
+          "日本語": "あなたが架空の世界で人生を送りたいとしたらどの世界にいたいですか？"
+        }
+      ],
+      "35/40": [
+        {
+          "English": "Are you winning Son?",
+          "Français": "Gagnez-vous, fils?",
+          "Nederlands": "Bent u aan het winnen, jongen?",
+          "日本語": "%うおうかくですか?"
+        }
+      ],
+      "36/40": [
+        {
+          "English": "Which anime should receive a remake?",
+          "Français": "Quel anime devrait avoir un remake?",
+          "Nederlands": "Welk anime zou een remake moeten krijgen?",
+          "日本語": "どのアニメにリメイクされてほしいですか？"
+        }
+      ],
+      "37/40": [
+        {
+          "English": "Which live-action remake do you hate the most?",
+          "Français": "Quel remake en prises de vues réelles détestez-vous le plus?",
+          "Nederlands": "Welke live-action remake haat u het meest?",
+          "日本語": "あなたが一番嫌いな実写版リメイクはどれですか？"
+        }
+      ],
+      "38/40": [
+        {
+          "English": "Which remake do you hate the most?",
+          "Français": "Quel remake détestez-vous le plus?",
+          "Nederlands": "Welke remake haat u het meest?",
+          "日本語": "あなたが一番嫌いなリメイクはどれですか？"
+        }
+      ],
+      "39/40": [
+        {
+          "English": "Is there a series that you love but everyone hates?",
+          "Français": "Y a-t-il une série que vous aimez mais que tout le monde déteste?",
+          "Nederlands": "Is er een serie die u graag ziet, maar die iedereen haat?",
+          "日本語": "あなたはみんなが嫌いなシリーズがあればそれが好きですか？"
+        }
+      ],
+      "40/40": [
+        {
+          "English": "Is there a movie or series that you love but everyone hates?",
+          "Français": "Y a-t-il un film ou une série que vous aimez mais que tout le monde déteste?",
+          "Nederlands": "Is er een film of serie die u graag ziet, maar die iedereen haat?",
+          "日本語": "あなたはみんなが嫌いな映画やシリーズがあればそれが好きですか？"
+        }
+      ]
     }
   }
 }
